@@ -29,7 +29,7 @@ land	answer
 입출력 예 #1
 문제의 예시와 같습니다.*/
 
-public class Programmers_Solution6 {
+public class Programmers_Solution5 {
 	public static void main(String[] args) {
 		Solution1 s = new Solution1();
 		int[][] list = { { 1, 2, 3, 5 }, { 5, 6, 7, 8 }, { 4, 3, 2, 1 } };

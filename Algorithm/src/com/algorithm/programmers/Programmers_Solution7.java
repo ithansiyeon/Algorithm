@@ -13,7 +13,7 @@ import java.util.Arrays;
 //배열 arr의 크기 : 1,000,000 이하의 자연수
 //배열 arr의 원소의 크기 : 0보다 크거나 같고 9보다 작거나 같은 정수
 
-public class Programmers_Solution8 {
+public class Programmers_Solution7 {
 	public static void main(String[] args) {
 		int [] nums = {1,1,3,3,0,1,1};
 		int [] answer = solution(nums);

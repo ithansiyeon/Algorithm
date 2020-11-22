@@ -31,7 +31,7 @@ import java.util.PriorityQueue;
 //
 //6개의 문서(A, B, C, D, E, F)가 인쇄 대기목록에 있고 중요도가 1 1 9 1 1 1 이므로 C D E F A B 순으로 인쇄합니다.
 
-public class Programmers_Solution7 {
+public class Programmers_Solution6 {
 	public static void main(String[] args) {
 		int [] priorities = {1, 1, 9, 1, 1, 1};
 		int answer = solution(priorities,0);

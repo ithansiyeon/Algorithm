@@ -2,7 +2,7 @@ package com.algorithm.programmers;
 
 import java.util.ArrayList;
 
-public class Programmers_Solution9 {
+public class Programmers_Solution8 {
 	public static void main(String[] args) {
 //				카카오톡에 뜬 네 번째 별! 심심할 땐? 카카오톡 게임별~
 //
