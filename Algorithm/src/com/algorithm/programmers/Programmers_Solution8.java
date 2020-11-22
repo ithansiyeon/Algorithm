@@ -36,7 +36,6 @@ public class Programmers_Solution8 {
     		}
     		
         	
-        	
         }
         int[] answer = new int[list.size()];
         for(int i=0;i<list.size();i++) {
