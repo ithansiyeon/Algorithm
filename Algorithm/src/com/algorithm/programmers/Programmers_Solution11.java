@@ -36,7 +36,7 @@ public class Programmers_Solution11 {
         	}
         }
         day+=b;
-        System.out.println(day);
+       
         if(day%7 == 1) {
         	return "FRI";
         } else if(day%7 == 2) {
