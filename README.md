@@ -18,5 +18,6 @@
   <li>10. 체육복</li>
   <li>11. 2016년</li>
   <li>12. Summer/Winter Coding(~2018) 배달</li>
+  <li>13. 압축</li>
 </list>
  
