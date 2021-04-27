@@ -20,5 +20,6 @@
   <li>12. Summer/Winter Coding(~2018) 배달</li>
   <li>13. 압축</li>
   <li>15. 최소, 최대</li>
+  <li>16. 포켓몬</li>
 </list>
  
