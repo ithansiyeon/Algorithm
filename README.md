@@ -1,7 +1,7 @@
 
 # Algorithm
 ### 알고리즘 문제 풀기
-### 문제 사이트 : https://programmers.co.kr/
+### 문제 사이트 : https://programmers.co.kr/, https://www.acmicpc.net/
 
 알고리즘 테스트에 통과한 문제들입니다.
 ### :pushpin: 푼 문제 순서
@@ -20,5 +20,6 @@
   <li>12. Summer/Winter Coding(~2018) 배달</li>
   <li>13. 압축</li>
   <li>15. 최소, 최대</li>
+  <li>16. 포켓몬</li>
 </list>
  
