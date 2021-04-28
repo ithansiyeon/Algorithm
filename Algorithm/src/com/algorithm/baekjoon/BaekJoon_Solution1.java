@@ -3,7 +3,7 @@ package com.algorithm.baekjoon;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BaekJoon_Solution15 {
+public class BaekJoon_Solution1 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int num = scan.nextInt();
@@ -11,8 +11,6 @@ public class BaekJoon_Solution15 {
 		for(int i=0;i<num;i++) {
 			nums[i] = scan.nextInt();
 		}
-		int min = -Integer.MIN_VALUE;
-		int max = 0;
 		
 		scan.close();
 		Arrays.sort(nums);
