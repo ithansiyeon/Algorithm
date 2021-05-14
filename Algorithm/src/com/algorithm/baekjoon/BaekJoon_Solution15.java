@@ -3,7 +3,7 @@ package com.algorithm.baekjoon;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BaekJoon_Solution1 {
+public class BaekJoon_Solution15 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int num = scan.nextInt();
